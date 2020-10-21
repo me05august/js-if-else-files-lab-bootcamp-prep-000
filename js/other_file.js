@@ -1,1 +1,1 @@
-console.log(nam)
+console.log(name)
